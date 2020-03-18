@@ -1,3 +1,3 @@
 # Nalliah-Sridharan
-Linux Debugging examples
-Debugging using GDB can be done by line number, function name and memmory address.
+Linux Debugging examples. 
+Debugging using GDB can be done by either by line number or function name or memmory address.
